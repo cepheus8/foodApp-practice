@@ -15,3 +15,5 @@ The project includes:
 - context API,
 
 - external realtime database (Firebase) for fetching the data,
+
+See the project on: [https://foodapp-practice-rw.netlify.app](https://foodapp-practice-rw.netlify.app).
